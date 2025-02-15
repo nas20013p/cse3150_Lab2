@@ -1,6 +1,6 @@
 # CSE3150: Lab2
 
-#Compilation Instructions
+Compilation Instructions
 
 1. Run the following command in the terminal:
    - g++ -std=c++17 -o balanced_lists main.cpp balanced_lists.cpp balanced_lists_tests.cpp
